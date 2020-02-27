@@ -1,11 +1,11 @@
 # Site settings
 author: Shaquille Galimba
-title: 
+title: Ang paglalakbay
 header-img: img/home-bg.png
 email: shaqrivergalimba24@gmail.com
 copyright_name: Shaquille Galimba
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My continuous pursuit of learning.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  shaquille-galimba
