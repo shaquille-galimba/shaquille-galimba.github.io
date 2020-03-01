@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Boot camp prep course really helps!"
-date:       2020-03-01 03:18:43 +0000
+date:       2020-02-29 22:18:44 -0500
 permalink:  boot_camp_prep_course_really_helps
 ---
 
