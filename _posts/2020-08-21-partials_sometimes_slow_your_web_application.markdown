@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Partials sometimes slow your web application."
-date:       2020-08-21 10:36:13 +0000
+date:       2020-08-21 06:36:13 -0400
 permalink:  partials_sometimes_slow_your_web_application
 ---
 
